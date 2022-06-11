@@ -12,3 +12,11 @@
   font-family: monospace;
   font-size: 30px;
 }
+
+.logout-btn {
+  padding: 8px;
+  background-color: orangered;
+}
+.logout-btn:hover {
+  background-color: rgb(5, 9, 59);
+}
